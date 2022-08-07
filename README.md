@@ -1,9 +1,8 @@
 # DE_recupVol
 
-During our "Data Engineering" course, we had the chance to choose a project for ourselves, as far asit had something to do
+During our "Data Engineering" course, we had the chance to choose a project for ourselves, as far as it had something to do
 with "data". Me and my friend chose to work on aeronautical data, our goal was to automate a
-webscraping algorythm to keep
-retieving data, and then to exploit the data retrieved in different ways.<br><br>
+webscraping algorythm to keep scraping, and then to exploit the data retrieved in different ways.<br><br>
 First, we calculated how late every plane departed and tried to correlate the weather with that
 delay. We had also retrieved the weather
 from the same website.
